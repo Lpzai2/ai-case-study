@@ -34,6 +34,7 @@ The field of software defense is relatively new. Lockheed Martin and Raytheon ar
 
 <video src="Mini_trim_video.mp4" controls title="Title"></video>
 
+
 ## In Action
 Because this startup is one of its kind, the impacts has been staggering. They have already signed defense contracts with the US. One of their major achievements is implementing the Sentry Tower Deployment which helps Border Patrol officers monitor the border between USA and Mexico. In areas where the officers do not have enough personel, Anduril has built towers that do not disturb the environment, solar powered, and keeps continue survelliance of the region that they have selected.
 
